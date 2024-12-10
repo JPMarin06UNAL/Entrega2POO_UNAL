@@ -31,4 +31,3 @@ try:
     print(f"Área: {propiedades['area']}")
 except ValueError as e:
     print(e)
-
